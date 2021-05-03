@@ -6,3 +6,10 @@ Dans cet espace je vais développer des projets pour le plaisir
 L'idée est de faire une étude statistique de la suite en m'inspirant de ce qu'a fait mon ami David sur la suite de Syracuse.<br />
 Je vais travailler sur le théorème cosmologique de Conway.<br />
 http://www.njohnston.ca/2010/10/a-derivation-of-conways-degree-71-look-and-say-polynomial/
+
+## Le compte est bon
+Le but est de programmer un solveur du jeu le compte est bon.<br />
+Première méthode : programmation récursive<br />
+Deuxième méthode : dynamique<br />
+Le programme sera dans un premier temps écrit en Python, puis en JavaScript pour l'inclure dans une page Web afin de proposer une IHM.
+
