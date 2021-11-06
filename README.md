@@ -14,4 +14,4 @@ Deuxième méthode : dynamique<br />
 Le programme sera dans un premier temps écrit en Python, puis en JavaScript pour l'inclure dans une page Web afin de proposer une IHM.
 
 ## Photomosaïque
-Terminer ma [version](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/Projets/Photomosa%C3%AFque) du projet de photomosaïque que j'avais proposé et fait en parallèle avec mes élèves de terminale. 
+Terminer ma [version](https://github.com/NaturelEtChaud/NSI-Terminale/tree/main/Projets/Photomosa%C3%AFque) du projet de photomosaïque que j'avais proposé et fait en parallèle avec mes élèves de terminale en 2021. 
