@@ -9,7 +9,7 @@ http://www.njohnston.ca/2010/10/a-derivation-of-conways-degree-71-look-and-say-p
 
 ## Le compte est bon
 Le but est de programmer un solveur du jeu le compte est bon.<br />
-Première méthode : programmation récursive<br />
+Première méthode : programmation récursive (work on progress)<br />
 Deuxième méthode : dynamique<br />
 Le programme sera dans un premier temps écrit en Python, puis en JavaScript pour l'inclure dans une page Web afin de proposer une IHM.
 
